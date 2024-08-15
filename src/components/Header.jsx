@@ -44,21 +44,21 @@ function Header() {
                       Blogs
                     </Link>
                   </li>
-                  {/* <li>
+                  <li>
                     <Link
-                      href="/login"
+                      href="/chat"
                       className="text-[#363636]  transition-all duration-500"
                     >
-                      Login
+                      Help
                     </Link>
                   </li>
-                   */}
+                  
                 </ul>
             </div>
             <Link href="/contact">
             <div className="headerButton">
               <button className="bg-[#88038F] text-white text-[1vw] px-[1vw] py-[0.5vw] btn-anim relative overflow-hidden z-[1]">
-                Let Connect
+                Let&apos; Connect
               </button>
             </div>
             </Link>
